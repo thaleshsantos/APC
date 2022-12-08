@@ -1,0 +1,10 @@
+def maiorAB(a,b):
+    if a>b:
+        print(a)
+    else:
+        print(b)
+cont=0
+while cont<5:
+    a,b=map(int,input().split())
+    cont+=1
+    maiorAB(a,b)
