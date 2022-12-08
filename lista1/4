@@ -1,0 +1,7 @@
+entrada = input()
+entrada.split()
+x,y = entrada.split()
+x = int(x)
+y = int(y)
+import math
+print(math.pow(x,y))
