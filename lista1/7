@@ -1,0 +1,3 @@
+def converte(x):
+   y =  (x * 9/5) + 32
+   print(f'{y:.1f}')
