@@ -1,0 +1,2 @@
+def powAPC(base, expoente):
+    print (float(base**expoente))
